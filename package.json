@@ -1,0 +1,24 @@
+{
+  "name": "events_server",
+  "version": "1.0.0",
+  "description": "Events App Backend Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikstemkar/Events_App.git"
+  },
+  "keywords": [
+    "server",
+    "events",
+    "flutter"
+  ],
+  "author": "PRATIK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pratikstemkar/Events_App/issues"
+  },
+  "homepage": "https://github.com/pratikstemkar/Events_App#readme"
+}
