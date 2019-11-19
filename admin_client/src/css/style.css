@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
+/* CSS Variables */
+:root {
+    --primary-color: darkcyan;
+}
+
+body {
+    background-color: lightsteelblue;
+    font-family: 'PT Sans', sans-serif;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    font-family: 'PT Sans', sans-serif;
+    padding: 0.5rem;
+    border: 0;
+    border-radius: 1rem;
+    width: 15rem;
+}
+
+.head-title {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.small {
+    font-size: 0.8rem;
+}
+
+
+/* Utility Classes */
+.container {
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+
+.lead {
+    font-size: 1.3rem;
+}
+
+.btn {
+    color: #fff;
+    border-radius: 0.5rem;
+    padding: 0.8rem 1.2rem;
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color: darkcyan;
+}
+
+.btn-primary:hover {
+    background-color: rgb(1, 177, 177);
+}
+
+/* Text Classes */
+.text-center {
+    text-align: center;
+}
+
+.mt {
+    margin-top: 4rem;
+}
+
+.mb {
+    margin-bottom: 4rem;
+}
