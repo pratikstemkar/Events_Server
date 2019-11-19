@@ -23,4 +23,4 @@ Backend Server for [Events App](https://github.com/pratikstemkar/Events_App)
 ## License :page_facing_up:
 [MIT](https://github.com/pratikstemkar/Events_Server/blob/master/LICENSE)
 
-Made with :heart: by [PRATIK](https://pratikstemkar.me)
+Made with :heart: by [PRATIK](https://pratikstemkar.me).
